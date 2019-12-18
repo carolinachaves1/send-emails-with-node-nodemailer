@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Aplicação de envio de e-mails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carolina Chaves",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.2",
+    "npm": "^6.13.4"
+  }
+}
